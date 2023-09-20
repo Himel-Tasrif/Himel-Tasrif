@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himel-tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himel-tasrif&" alt="himel-tasrif" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himel-tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himel-tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif" /></p>
 </div>
@@ -48,4 +48,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himel-tasrif" alt="himel-tasrif" /></a> </p>
 
 ### ⚡ MY GitHub Contribution  ⚡
-![Snake animation]([https://github.com/Himel-Tasrif/Himel-Tasrif/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/himel-tasrif/himel-tasrif/blob/output/github-contribution-grid-snake.svg)

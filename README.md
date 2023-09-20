@@ -48,4 +48,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himel-tasrif" alt="himel-tasrif" /></a> </p>
 
 ### ⚡ MY GitHub Contribution  ⚡
-![Snake animation]([https://github.com/himel-tasrif/himel-tasrif/blob/output/github-contribution-grid-snake.svg)

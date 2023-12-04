@@ -17,9 +17,9 @@
 - ⚡ Fun fact **I think I am Cool**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://kaggle.com/tasrif nur himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasrif nur himel" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/tasrifnurhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasrif nur himel" height="30" width="40" /></a>
 <a href="https://fb.com/himel tasrif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himel tasrif" height="30" width="40" /></a>
 <a href="https://instagram.com/tasrif_himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasrif_himel" height="30" width="40" /></a>
 </p>

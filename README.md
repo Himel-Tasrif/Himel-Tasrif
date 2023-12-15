@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasrif Nur Himel</h1>
-<div align="center"> <img src="https://pbs.twimg.com/media/F6aJPRFa8AA2sY-?format=webp&name=small"> </div>
+<div align="center"> <img src="https://pbs.twimg.com/media/GBYvsj1aIAA_JM8?format=jpg&name=small"> </div>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 

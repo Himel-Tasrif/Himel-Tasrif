@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-tasrif&label=Profile%20views&color=0e75b6&style=flat" alt="himel-tasrif" /> </p>
 
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himel-Tasrif](https://github.com/Himel-Tasrif)
 

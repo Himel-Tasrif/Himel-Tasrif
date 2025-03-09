@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himel-Tasrif](https://github.com/Himel-Tasrif)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **tasrifnurhimel@gmail.com**
 

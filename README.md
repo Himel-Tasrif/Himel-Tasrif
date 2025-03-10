@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/tasrifnurhimel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasrif nur himel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tasrifnurhimel/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="tasrif nur himel" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/tasrifnurhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasrif nur himel" height="30" width="40" /></a>
 <a href="https://fb.com/himel tasrif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himel tasrif" height="30" width="40" /></a>
 <a href="https://instagram.com/tasrif_himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasrif_himel" height="30" width="40" /></a>

@@ -25,6 +25,7 @@
 <a href="" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="himel tasrif" height="35" width="45" /></a>
 <a href="https://facebook.com/himeltasrif06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himel tasrif" height="30" width="40" /></a>
 <a href="https://instagram.com/himeltasrif06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasrif_himel" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="himel tasrif" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

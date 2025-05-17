@@ -33,7 +33,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Himel-Tasrif&theme=react-dark&bg_color=161B22&hide_border=true&area=true&color=d5f5e3&line=42a4f5&point=fcf3cf&title_color=f4f6f7&label_color=ecf0f1&radius=16" width="100%"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Himel-Tasrif&theme=react-dark&bg_color=161B22&hide_border=true&area=true&color=7dcea0&line=42a4f5&point=fcf3cf&title_color=f4f6f7&label_color=ecf0f1&radius=16" width="100%"/>
 
 <div class="stats" align="center">
 

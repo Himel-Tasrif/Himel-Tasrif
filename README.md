@@ -39,12 +39,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himel-tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himel-tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
 <!---
 <p><img align="center" src="https://streak-stats.demolab.com/?user=himel-tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
 --->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himel-tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif" /></p>
 </div>
 <br>
 <br>

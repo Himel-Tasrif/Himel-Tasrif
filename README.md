@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Himel-Tasrif](https://github.com/Himel-Tasrif)
+- 👨‍💻 All of my projects are available at [https://github.com/Himel-Tasrif](https://tasrifnurhimel.me)
 
 - 💬 Ask me about **Artificial Intelligence and Machine Learning**
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.tasrifnurhimel.me](https://tasrifnurhimel.me)
+- 👨‍💻 All of my projects are available at [https://tasrifnurhimel.me](https://www.tasrifnurhimel.me)
 
 - 💬 Ask me about **Artificial Intelligence and Machine Learning**
 

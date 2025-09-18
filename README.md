@@ -37,7 +37,7 @@
 
 <div class="stats" align="center">
 
-<p>&nbsp;<img align="center" src="https://gh-stats-gen.vercel.app/api?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif" /></p>
+<p>&nbsp;<img align="center" src="github-readme-stats-sigma-five.vercel.app/api?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
 <!---

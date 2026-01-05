@@ -40,9 +40,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
-<!---
-<p><img align="center" src="https://streak-stats.demolab.com/?user=himel-tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
---->
+
+<!-- <p><img align="center" src="https://streak-stats.demolab.com?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif"/></p> -->
+<!-- <p> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Himel-Tasrif" alt="GitHub Streak" /></a> </p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif" /></p>
 </div>
@@ -52,6 +52,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himel-Tasrif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himel-tasrif" alt="himel-tasrif" /></a> </p>
+<p align="left"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=himel-tasrif" alt="himel-tasrif" /></a> </p>
 
 ### ⚡ MY GitHub Contribution  ⚡

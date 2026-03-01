@@ -44,7 +44,7 @@
 <!-- <p><img align="center" src="https://streak-stats.demolab.com?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif"/></p> -->
 <!-- <p> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Himel-Tasrif" alt="GitHub Streak" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400&count-private=true" alt="himel-tasrif" /></p>
 </div>
 <br>
 <br>

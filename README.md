@@ -54,7 +54,7 @@
 
 <p align="left">
   <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=himel-tasrif&theme=monokai&row=1&column=8&title=MultiLanguage,LongTimeUser,Commits,Stars,Repositories,Followers,Issues,PullRequest" alt="himel-tasrif" />
+    <img src="https://github-trophies.vercel.app/?username=himel-tasrif&theme=flat&row=1&column=8&title=MultiLanguage,LongTimeUser,Commits,Stars,Repositories,Followers,Issues,PullRequest&margin-w=16" alt="himel-tasrif" />
   </a>
 </p>
 

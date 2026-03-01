@@ -58,6 +58,4 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=himel-tasrif" alt="himel-tasrif" /></a> </p>
-
 ### ⚡ MY GitHub Contribution  ⚡

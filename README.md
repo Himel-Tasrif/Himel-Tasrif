@@ -52,6 +52,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himel-Tasrif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<p align="left">
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=himel-tasrif&theme=monokai&row=1&column=8&title=MultiLanguage,LongTimeUser,Commits,Stars,Repositories,Followers,Issues,PullRequest" alt="himel-tasrif" />
+  </a>
+</p>
+
 <p align="left"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=himel-tasrif" alt="himel-tasrif" /></a> </p>
 
 ### ⚡ MY GitHub Contribution  ⚡

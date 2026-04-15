@@ -21,10 +21,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tasrifnurhimel/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="tasrif nur himel" height="35" width="45" /></a>
 <a href="https://medium.com/@himeltasrif" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" alt="tasrif nur himel" height="35" width="45" /></a>
-<a href="https://www.kaggle.com/tasrifnurhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasrif nur himel" height="30" width="40" /></a>
+<!-- <a href="https://www.kaggle.com/tasrifnurhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tasrif nur himel" height="30" width="40" /></a> -->
 <a href="https://x.com/Himel_Tasrif" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="himel tasrif" height="35" width="45" /></a>
-<a href="https://facebook.com/himeltasrif06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himel tasrif" height="30" width="40" /></a>
-<a href="https://instagram.com/himeltasrif06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasrif_himel" height="30" width="40" /></a>
+<a href="https://facebook.com/himeltasrif06" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="himel tasrif" height="35" width="45" /></a>
+<a href="https://instagram.com/himeltasrif06" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="tasrif_himel" height="35" width="45" /></a>
 <a href="https://telegram.org/@himeltasrif" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="himel tasrif" height="35" width="45" /></a>
 </p>
 

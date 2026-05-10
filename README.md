@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasrif Nur Himel</h1>
 <div align="center"> <img src="https://pbs.twimg.com/media/GBYvsj1aIAA_JM8?format=jpg&name=small"> </div>
-<h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-tasrif&label=Profile%20views&color=0e75b6&style=flat" alt="himel-tasrif" /> </p>

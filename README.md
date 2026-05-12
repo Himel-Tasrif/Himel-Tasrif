@@ -31,9 +31,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" alt="python" width="40" height="40"/>
-
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Pandas.svg" alt="pandas" width="40" height="40"/> </a>  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Pandas.svg" alt="pandas" width="40" height="40"/> </a>  
 
 <!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 

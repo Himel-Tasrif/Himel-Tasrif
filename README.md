@@ -33,7 +33,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Anaconda.svg" alt="anaconda" width="40" height="40"/></a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://irislogic.com/wp-content/uploads/2024/04/Digital-Transformation-1.png" alt="langchain" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Pandas.svg" alt="pandas" width="40" height="40"/></a>  
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Pandas.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/FastAPI.svg" alt="pandas" width="40" height="40"/></a>
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/scikit-learn.svg" alt="scikit_learn" width="40" height="40"/></a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/TensorFlow.svg" alt="tensorflow" width="40" height="40"/></a>

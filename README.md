@@ -38,9 +38,9 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/OpenCV.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Flask.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/FastAPI.svg" alt="fastapi" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Pandas.svg" alt="pandas" width="40" height="40"/></a>
 
 <!-- <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/JavaScript.svg" alt="js" width="40" height="40"/></a> -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Pandas.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Node.js.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/scikit-learn.svg" alt="scikit_learn" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/C.svg" alt="c" width="40" height="40"/></a> 

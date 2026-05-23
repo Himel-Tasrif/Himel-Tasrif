@@ -36,11 +36,12 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/TensorFlow.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/PyTorch.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Pandas.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/OpenCV.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/FastAPI.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Flask.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/PostgresSQL.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Docker.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/OpenCV.svg" alt="opencv" width="40" height="40"/></a>
+
 <!-- <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/JavaScript.svg" alt="js" width="40" height="40"/></a> -->
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Node.js.svg" alt="nodejs" width="40" height="40"/></a>
 

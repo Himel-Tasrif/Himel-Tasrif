@@ -52,7 +52,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Docker.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Grafana.svg" alt="grafana" width="40" height="40"/></a>
 <!-- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> -->
-<!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> -->
 </p> 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>

@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I think I am Cool**
 
 
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left">Connect with Me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/tasrifnurhimel/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="tasrif nur himel" height="35" width="45" /></a>
 <a href="https://medium.com/@himeltasrif" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" alt="tasrif nur himel" height="35" width="45" /></a>

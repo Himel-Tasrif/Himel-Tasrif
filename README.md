@@ -58,22 +58,19 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Himel-Tasrif&theme=react-dark&bg_color=161B22&hide_border=true&area=true&color=7dcea0&line=42a4f5&point=fcf3cf&title_color=f4f6f7&label_color=ecf0f1&radius=16" width="100%"/>
 
 <div class="stats" align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
-
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Himel-Tasrif&theme=algolia&border_radius=20" alt="himel-tasrif"/></p>
 <!-- <p><img align="center" src="https://streak-stats.demolab.com?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif"/></p> -->
 <!-- <p> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Himel-Tasrif" alt="GitHub Streak" /></a> </p> -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400&count-private=true" alt="himel-tasrif" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400&count-private=true" alt="himel-tasrif"/></p>
 </div>
 <br>
 <br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Himel-Tasrif&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 <p align="left">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img src="https://github-trophies.vercel.app/?username=himel-tasrif&theme=flat&row=1&column=8&title=AchieveSSSRank,MultiLanguage,LongTimeUser,Commits,Stars,Repositories,Followers,Issues,PullRequest&margin-w=16" alt="himel-tasrif" />

@@ -59,12 +59,11 @@
 
 <div class="stats" align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif"/></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p> -->
 <!-- Streak Stats — using github-readme-streak-stats (more reliable than demolab) -->
 <!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&hide_border=true" alt="himel-tasrif"/></p> -->
-<p><img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Himel-Tasrif&theme=algolia&border_radius=20" alt="himel-tasrif"/></p>
-<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=algolia&border_radius=20" alt="himel-tasrif"/></p> -->
 <!-- <p><img align="center" src="https://streak-stats.demolab.com?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif"/></p> -->
+<p><img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Himel-Tasrif&theme=algolia&border_radius=20" alt="himel-tasrif"/></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p> -->
 <!-- Top Languages -->
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif"/></p>
 </div>

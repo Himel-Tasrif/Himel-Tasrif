@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-tasrif&label=Profile%20views&color=0e75b6&style=flat" alt="himel-tasrif" /> </p>
 
-
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://tasrifnurhimel.me](https://www.tasrifnurhimel.me)
@@ -78,4 +77,4 @@
   </a>
 </p>
 
-### ⚡ MY GitHub Contribution ⚡
+### ⚡ MY GitHub Contribution  ⚡

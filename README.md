@@ -54,19 +54,38 @@
 </p> 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Himel-Tasrif&theme=react-dark&bg_color=161B22&hide_border=true&area=true&color=7dcea0&line=42a4f5&point=fcf3cf&title_color=f4f6f7&label_color=ecf0f1&radius=16"
+    width="100%"
+    alt="Himel GitHub Activity Graph"
+  />
+</p>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Himel-Tasrif&theme=react-dark&bg_color=161B22&hide_border=true&area=true&color=7dcea0&line=42a4f5&point=fcf3cf&title_color=f4f6f7&label_color=ecf0f1&radius=16" width="100%"/>
+<!-- GitHub Stats -->
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&include_all_commits=true"
+    alt="Himel GitHub Stats"
+  />
+</p>
 
-<div class="stats" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="himel-tasrif"/></p>
-<!-- Streak Stats — using github-readme-streak-stats (more reliable than demolab) -->
-<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&hide_border=true" alt="himel-tasrif"/></p> -->
-<!-- <p><img align="center" src="https://streak-stats.demolab.com?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif"/></p> -->
-<p><img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Himel-Tasrif&theme=algolia&border_radius=20" alt="himel-tasrif"/></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himel-Tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p> -->
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Himel-Tasrif&theme=algolia&border_radius=20"
+    alt="Himel GitHub Streak"
+  />
+</p>
+
 <!-- Top Languages -->
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Himel-Tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif"/></p>
-</div>
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Himel-Tasrif&theme=algolia&border_radius=20&layout=compact&langs_count=8&card_width=400&size_weight=0.5&count_weight=0.5"
+    alt="Himel Top Languages"
+  />
+</p>
 <br>
 <br>
 

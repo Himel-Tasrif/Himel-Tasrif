@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasrif Nur Himel</h1>
-<div align="center"> <img src="https://pbs.twimg.com/media/GBYvsj1aIAA_JM8?format=jpg&name=small"> </div>
+<div align="center"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/Photo/AI%20Engineer%20LinkedIn%20Banner.png"> </div>
 <h3 align="center">A passionate Artificial Intelligence Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 

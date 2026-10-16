@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplNzgzMjMwYy0wZGU2LTRkZWYtOTQyNC00MTcxOTBjZTUwMzgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBpS8cZjo3VbmENabZKsJFkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1NzMxNzA5Mi1lOTIwLTRkODAtYThhNy00NWM2NTdmNGRlZTBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNosqPL+Oc9IWgka4o+QWVbcwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgggQe0PkewI07syWHP7Ar8LMBRJUWWJXW5ACPqvG4XFOGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaF445LaACmEqaPHoatnPTNUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDcGowkF6Uid0rA5eND1xV1yNmSWlo391l6KZN6SAXCSWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjnZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmU3ODMyMzBjLTBkZTYtNGRlZi05NDI0LTQxNzE5MGNlNTAzOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQ2ZDU2ZWY1LWU1YjktNDQ4MS05NmYxLWFmYTUyZTU0NmFiYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCBB7Q+R7AjTuzJYc/sCvwswFElRZYldbkAI+q8bhcU4aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggLyYwrJfMfkXYa9Y09YTuWuydzcHzjeHboT3pQpQp03+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggy+thotOHa52uL8+Hh1vyR0HhFf16qzHkgg0JdsYDSKB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMRuMR5hZMLFAqec0uQBD2YyMVQ2UMf1dNEaUTXC5YkhW5F9kW95UP2z+gnCLfA9YR4RXE1ueM85V+9iTGP7Qr0=</c2pa:manifest></metadata>
+<defs>
+  <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="bigglow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="10"/></filter>
+  <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#5eead4" stop-opacity="0"/><stop offset=".5" stop-color="#5eead4" stop-opacity=".28"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="vig" cx=".5" cy=".5" r=".75"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient>
+  <pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#5eead4" opacity=".07"/></pattern>
+  <clipPath id="win"><rect x="8" y="8" width="784" height="464" rx="18"/></clipPath>
+  <clipPath id="circ"><circle cx="204" cy="238" r="152"/></clipPath>
+</defs>
+
+<!-- window -->
+<rect x="8" y="8" width="784" height="464" rx="18" fill="#030b0b"/>
+<rect x="8" y="8" width="784" height="464" rx="18" fill="none" stroke="#2dd4bf" stroke-opacity=".35" stroke-width="3" filter="url(#bigglow)"/>
+<rect x="8" y="8" width="784" height="464" rx="18" fill="none" stroke="#2dd4bf" stroke-opacity=".8" stroke-width="1.5"/>
+<circle cx="32" cy="30" r="5.5" fill="#ff5f57"/><circle cx="52" cy="30" r="5.5" fill="#febc2e"/><circle cx="72" cy="30" r="5.5" fill="#28c840"/>
+<text x="400" y="34" text-anchor="middle" font-size="11" fill="#6aa8a0">himel@github:~$ ./profile-scan --live</text>
+
+<!-- left panel -->
+<g filter="url(#glow)"><rect x="24" y="52" width="340" height="388" rx="14" fill="#04140f" fill-opacity=".6" stroke="#2dd4bf" stroke-width="1.4"/></g>
+<text x="42" y="75" font-size="11" fill="#2dd4bf" letter-spacing="2">VISUAL.MAP</text>
+<g clip-path="url(#circ)">
+  <circle cx="204" cy="238" r="152" fill="#2dd4bf" fill-opacity=".05"/>
+  <g font-size="7.4" fill="#5eead4" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;.82;1;.92;1" dur="3.2s" repeatCount="indefinite"/>
+<text x="54" y="92.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                                                                    </text>
+<text x="54" y="98.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                        %####%                                      </text>
+<text x="54" y="104.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                   %##*-=+=+****#%                                  </text>
+<text x="54" y="110.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                #*-+********++*+=**######                           </text>
+<text x="54" y="116.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">               #+*=*****=***********=+***#                          </text>
+<text x="54" y="123.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">              #==-*++--...:+**********+**#                          </text>
+<text x="54" y="129.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">             **:++=...... .-:-::-:-+**#*+.*                         </text>
+<text x="54" y="135.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">            #++.-=...... ..... ...--=++*****#                       </text>
+<text x="54" y="141.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">            *=*.......+**#####**+-:....-+**++%                      </text>
+<text x="54" y="147.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">            *:**+:...*#%%%%%%%%####**=..-+**+#                      </text>
+<text x="54" y="154.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">            #=+++.::-#%%%%%%%%%%%#####*.=+*#*                       </text>
+<text x="54" y="160.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">            #-+:.:++*#%%%%%%%%%%%######*=*#                         </text>
+<text x="54" y="166.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">             ++=+****%%%%%%%%%%%%%%%####+#                          </text>
+<text x="54" y="172.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">             %-+***#%%%%%#######%%%##***#                           </text>
+<text x="54" y="178.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">              #****%%%%###*+=+**###*:=*#                            </text>
+<text x="54" y="185.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">              %%%##%%%%%##%#-*#%%##*#**#                            </text>
+<text x="54" y="191.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">              %%%%%%%%%%%#%#+*#%%%#*#*##                            </text>
+<text x="54" y="197.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">              %%#%%%%%%%%%%##%%%%%#####%                            </text>
+<text x="54" y="203.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">              %%%%%%%%%%%%%%%%%%%%%%#%#%                            </text>
+<text x="54" y="209.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">               %%%%%%%%%%%%%%%%%%%%%#%%%                            </text>
+<text x="54" y="216.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                 %%#%%%%%%%%%%%%%%%###%%                            </text>
+<text x="54" y="222.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                   %%%%%%%%%%%%#****#%%%                            </text>
+<text x="54" y="228.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                   %%%%%%%%%#####*#**#%%                            </text>
+<text x="54" y="234.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                    %%%%%%%%########*#%                             </text>
+<text x="54" y="240.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                    %%%%%%%%%%%#######%                             </text>
+<text x="54" y="247.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                    @%%%%%%##%%#**####                              </text>
+<text x="54" y="253.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                    %%%%##%##########:*                             </text>
+<text x="54" y="259.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                   #+%%%%%##*******+:.:*                            </text>
+<text x="54" y="265.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                   *+%%%%%%%#****:...:-:-*##                        </text>
+<text x="54" y="271.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                   *+*%%%%%%###*=....:-.::-:=*#%                    </text>
+<text x="54" y="278.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                  %*+==*##%%%#*..:..::.:--=++=::+*#%                </text>
+<text x="54" y="284.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">                %*+**+=:..=+*=::::::...::-+===+++=-:=*##            </text>
+<text x="54" y="290.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">              #*++******+*#****=:::...:-----===---=++*+==*#         </text>
+<text x="54" y="296.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">           %*+=+++++=+*+*###***=.:..:-:------:::-==+++=+++:+#       </text>
+<text x="54" y="302.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">         #*==+**+++++=+.+###**+  ..--------:::==-:-++.-==+==:#      </text>
+<text x="54" y="309.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">      #*+=+*******+++++=.*#**+. .:-----=--:-===::-=+:.===--===%     </text>
+<text x="54" y="315.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">    #*=+***+**+=++======--##*+..:-==----=---=-:--=+=:.==-:-=-=+     </text>
+<text x="54" y="321.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">  #+*****+=++==+*++++=--.*#***+.-=----------=-:-=+=--.-=-.:--=-*    </text>
+<text x="54" y="327.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve"> *+***+===++=++++=+++==-+##****.---===--==-==:-=+=:--.--=.:----:#   </text>
+<text x="54" y="333.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">#**+**++*******+++*+-==:####*#*..:========--==++=::-=.::+..-:-:-+   </text>
+<text x="54" y="340.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">**+**++*+++++===+*=:=+=+###*###..-=========-=++-:::-=..::..-:-::-#  </text>
+<text x="54" y="346.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">++**=.:+-::-==+++::+++-*#######..-===-========-::----:.....::::.-=  </text>
+<text x="54" y="352.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">-+*+..:+--++++++:-++=+:*#*####*..-==========-:::::::::.....::-:.:-* </text>
+<text x="54" y="358.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">-=+-..-*-=*+++=-+++===:*#######..--=========--::::::::. ...::-:.:-+%</text>
+<text x="54" y="364.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">-=+...=+++++++=+++++==:*#######..-==-=+===---:::::::::: ..:::-:.-:=*</text>
+<text x="54" y="371.0" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">=-+...-*+==+++++=++===:*#######..-==-=+==----:-:::::::.....:--.::-:*</text>
+<text x="54" y="377.2" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">+-== .-*+=++++++++====.*#######..-==-===-===----:::::. ...::::.::-:=</text>
+<text x="54" y="383.4" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">+-:=. .++=+++++++====-.*#######..---:==-----::::::::.......:-:.:--::</text>
+<text x="54" y="389.6" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">+=:-=. .:=+++++++++=--.*#*#####..:--:--:----::::::::... ...:-..:-:::</text>
+<text x="54" y="395.8" textLength="299.2" lengthAdjust="spacing" xml:space="preserve">++::--  .=+++++++===--.*#*####*..:--:-----::::.:::::.......:-..:--::</text>
+  </g>
+</g>
+<circle cx="204" cy="238" r="152" fill="none" stroke="#2dd4bf" stroke-opacity=".35" stroke-dasharray="3 6"/>
+<circle cx="204" cy="238" r="152" fill="none" stroke="#5eead4" stroke-opacity=".7" stroke-width="1.5" stroke-dasharray="40 916">
+  <animateTransform attributeName="transform" type="rotate" from="0 204 238" to="360 204 238" dur="9s" repeatCount="indefinite"/>
+</circle>
+
+<!-- right panel -->
+<g filter="url(#glow)"><rect x="380" y="52" width="396" height="388" rx="14" fill="#04140f" fill-opacity=".6" stroke="#2dd4bf" stroke-width="1.4"/></g>
+<text x="404" y="75" font-size="11" fill="#2dd4bf" letter-spacing="2">SYSTEM.INFO</text>
+<g font-size="10" fill="#5eead4"><circle cx="730" cy="71" r="3.5" fill="#4ade80"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle><text x="738" y="75" fill="#4ade80">LIVE</text></g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.060;0.085;0.95;1" dur="12s" repeatCount="indefinite"/>
+  <text x="404" y="118" fill="#2dd4bf" fill-opacity=".75" font-size="11" letter-spacing="1.5">SUBJECT</text>
+  <text x="510" y="118" fill="#e6fffb" font-size="13">Tasrif Nur Himel</text>
+  <path d="M404 130H756" stroke="#2dd4bf" stroke-opacity=".12"/>
+</g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.130;0.155;0.95;1" dur="12s" repeatCount="indefinite"/>
+  <text x="404" y="156" fill="#2dd4bf" fill-opacity=".75" font-size="11" letter-spacing="1.5">HANDLE</text>
+  <text x="510" y="156" fill="#e6fffb" font-size="13">@Himel-Tasrif</text>
+  <path d="M404 168H756" stroke="#2dd4bf" stroke-opacity=".12"/>
+</g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.200;0.225;0.95;1" dur="12s" repeatCount="indefinite"/>
+  <text x="404" y="194" fill="#2dd4bf" fill-opacity=".75" font-size="11" letter-spacing="1.5">ROLE</text>
+  <text x="510" y="194" fill="#e6fffb" font-size="13">Artificial Intelligence Engineer</text>
+  <path d="M404 206H756" stroke="#2dd4bf" stroke-opacity=".12"/>
+</g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.270;0.295;0.95;1" dur="12s" repeatCount="indefinite"/>
+  <text x="404" y="232" fill="#2dd4bf" fill-opacity=".75" font-size="11" letter-spacing="1.5">STATUS</text>
+  <text x="510" y="232" fill="#e6fffb" font-size="13">Learning | Building | Shipping</text>
+  <path d="M404 244H756" stroke="#2dd4bf" stroke-opacity=".12"/>
+</g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.340;0.365;0.95;1" dur="12s" repeatCount="indefinite"/>
+  <text x="404" y="270" fill="#2dd4bf" fill-opacity=".75" font-size="11" letter-spacing="1.5">LANGUAGES</text>
+  <text x="510" y="270" fill="#e6fffb" font-size="13">Python, Java, C, Node.js</text>
+  <path d="M404 282H756" stroke="#2dd4bf" stroke-opacity=".12"/>
+</g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.410;0.435;0.95;1" dur="12s" repeatCount="indefinite"/>
+  <text x="404" y="308" fill="#2dd4bf" fill-opacity=".75" font-size="11" letter-spacing="1.5">FOCUS</text>
+  <text x="510" y="308" fill="#e6fffb" font-size="13">AI · ML · Computer Vision</text>
+  <path d="M404 320H756" stroke="#2dd4bf" stroke-opacity=".12"/>
+</g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.480;0.505;0.95;1" dur="12s" repeatCount="indefinite"/>
+  <text x="404" y="346" fill="#2dd4bf" fill-opacity=".75" font-size="11" letter-spacing="1.5">LOCATION</text>
+  <text x="510" y="346" fill="#e6fffb" font-size="13">Bangladesh</text>
+  <path d="M404 358H756" stroke="#2dd4bf" stroke-opacity=".12"/>
+</g>
+<g>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.550;0.575;0.95;1" dur="12s" repeatCount="indefinite"/>
+  <text x="404" y="384" fill="#2dd4bf" fill-opacity=".75" font-size="11" letter-spacing="1.5">CONTACT</text>
+  <text x="510" y="384" fill="#e6fffb" font-size="13">github.com/Himel-Tasrif</text>
+  <path d="M404 396H756" stroke="#2dd4bf" stroke-opacity=".12"/>
+</g>
+
+<!-- status line -->
+<text x="404" y="418" font-size="12" fill="#5eead4">&gt; scan complete<tspan>_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+
+<!-- CRT effects, clipped to window -->
+<g clip-path="url(#win)" style="pointer-events:none">
+  <rect x="8" y="8" width="784" height="464" fill="url(#lines)"/>
+  <rect x="8" y="8" width="784" height="464" fill="url(#vig)"/>
+  <rect x="0" y="-70" width="800" height="70" fill="url(#beam)">
+    <animate attributeName="y" values="-70;480" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>

@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tasrif Nur Himel</h1>
 <div align="center"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/Photo/AI%20Engineer%20LinkedIn%20Banner.png" width="800"> </div>
 <h3 align="center">A passionate Artificial Intelligence Engineer from Bangladesh</h3>
-<p align="right">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  <br>
-  <img alt="Profile scan visualization" width="400" src="https://raw.githubusercontent.com/Himel-Tasrif/Himel-Tasrif/main/Images/Photo/profile-scan-v2.svg">
-</p>
+<table align="right">
+  <tr>
+    <td align="center">
+      <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+      <br>
+      <img alt="Profile scan visualization" width="400" src="https://raw.githubusercontent.com/Himel-Tasrif/Himel-Tasrif/main/Images/Photo/profile-scan-v2.svg">
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-tasrif&label=Profile%20views&color=0e75b6&style=flat" alt="himel-tasrif" /> </p>
 
@@ -56,6 +60,8 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Docker.svg" alt="docker-himel" width="40" height="40"/></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/icons/Grafana.svg" alt="grafana-himel" width="40" height="40"/></a>
 </p> 
+
+<br clear="right" />
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <!-- Activity Graph -->

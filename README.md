@@ -12,8 +12,9 @@
   </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-tasrif&label=Profile%20views&color=0e75b6&style=flat" alt="himel-tasrif" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-tasrif&label=Profile%20views&color=0e75b6&style=flat" alt="himel-tasrif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-tasrif&label=Profile%20views&color=0e75b6&style=flat&refresh=1" alt="Profile views" /> </p> -->
+<p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHimel-Tasrif&label=Profile%20views&countColor=%230e75b6&style=flat" alt="Profile views" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 

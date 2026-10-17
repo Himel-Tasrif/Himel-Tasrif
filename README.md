@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tasrif Nur Himel</h1>
 <div align="center"> <img src="https://github.com/Himel-Tasrif/Himel-Tasrif/blob/main/Images/Photo/AI%20Engineer%20LinkedIn%20Banner.png" width="800"> </div>
 <h3 align="center">A passionate Artificial Intelligence Engineer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<br clear="right" />
-<img align="right" alt="Profile scan visualization" width="400" src="https://raw.githubusercontent.com/Himel-Tasrif/Himel-Tasrif/main/Images/Photo/profile-scan-v2.svg">
+<p align="right">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <br>
+  <img alt="Profile scan visualization" width="400" src="https://raw.githubusercontent.com/Himel-Tasrif/Himel-Tasrif/main/Images/Photo/profile-scan-v2.svg">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-tasrif&label=Profile%20views&color=0e75b6&style=flat" alt="himel-tasrif" /> </p>
 
